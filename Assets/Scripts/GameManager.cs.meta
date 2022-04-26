@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 600be28949756e342bfa2e3fb2995402
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 3308388533164285914, guid: c30d3d0a5cbcfb94aac5b0e61ed74579,
+      type: 3}
+  - WinTexture: {fileID: 21300000, guid: a72b31a3d492bf140802f4a19d33c947, type: 3}
+  - CLickTexture: {fileID: 21300000, guid: c8055f84577893c488db8ea19fd79569, type: 3}
+  - NormalTexture: {fileID: 21300000, guid: e42135dd5ce6a6644bdf840ed9a4cda4, type: 3}
+  - Cost: {instanceID: 0}
+  - Balance: {instanceID: 0}
+  - Win: {instanceID: 0}
+  - EffectImage: {instanceID: 0}
+  - myInput: {instanceID: 0}
+  - alert: {instanceID: 0}
+  - a_Bet: {instanceID: 0}
+  - a_Win: {instanceID: 0}
+  - a_Response: {instanceID: 0}
+  - a_Lose: {instanceID: 0}
+  - a_Server: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
